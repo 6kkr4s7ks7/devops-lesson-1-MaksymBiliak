@@ -1,7 +1,8 @@
 # Notes
 
-Name:
-Date:
+Name:Maksym Biliak
+
+Date:15.10.2026
 
 ## What I could explain at the exam
 -
